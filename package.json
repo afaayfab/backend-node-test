@@ -1,0 +1,41 @@
+{
+  "name": "tts-api-rest",
+  "version": "1.0.0",
+  "description": "Nodejs API REST",
+  "main": "app.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon --debug app.js",
+    "build": "cross-env NODE_ENV=production node app.js",
+    "doc": "apidoc -e node_modules/",
+    "test": "mocha ./test/base-test.js",
+    "lint": "eslint *.js --fix"
+  },
+  "dependencies": {
+    "apidoc": "0.17.6",
+    "body-parser": "1.17.2",
+    "chai": "4.1.1",
+    "chai-http": "3.0.0",
+    "chalk": "2.1.0",
+    "cross-env": "5.0.5",
+    "express": "^4.13.4",
+    "eslint": "4.4.1",
+    "eslint-config-google":"0.9.1",
+    "eslint-loader-2": "1.8.0",
+    "eslint-plugin-vue": "2.1.0",
+    "jshint": "2.9.5",
+    "method-override": "2.3.9",
+    "mkdirp": "0.5.1",
+    "mocha": "3.5.0",
+    "mongoose": "4.11.6",
+    "nodemon": "1.11.0",
+    "path": "0.12.7",
+    "socket.io": "^1.4.5",
+    "winston": "2.3.1",
+    "winston-daily-rotate-file": "1.4.6"
+    
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1",
+    "jshint": "^2.9.5"
+  }
+}
