@@ -1,4 +1,4 @@
-var mongoose = require('mongoose');
+var mongoose = require('mongoose')
 // Define our beer schema
 var User = new mongoose.Schema({
   name: {
@@ -17,5 +17,5 @@ var User = new mongoose.Schema({
     type: String,
     required: true
   }
-});
-module.exports = mongoose.model('User', User);
+})
+module.exports = mongoose.model('User', User)
