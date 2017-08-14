@@ -14,6 +14,7 @@ var mongoose = require('./api/util/mongooseUtil')
 var userController = require('./api/controller/api_user')
 let auth = require('./api/controller/auth')
 var redisUtil = require('./api/util/redisUtil')
+var jwtauth = require('./api/controller/middelware')
 
 var uri
 
@@ -32,13 +33,13 @@ redisUtil.mananageConnection(configEnv)
 
 let router = express.Router()
 
-// Rutas
-router.route('/user').get(userController.findAll).post(userController.add)
-router.route('/user/:id').get(userController.getById).post(userController.update).delete(userController.delete)
-router.route('/auth').post(auth.authTokenLogin)
 // Fin rutas
-
-app.use('/api', router)
+app.all('/api/*', jwtauth)
+// Rutas
+router.route('/api/user').get(userController.findAll).post(userController.add)
+router.route('/api/user/:id').get(userController.getById).post(userController.update).delete(userController.delete)
+router.route('/auth').post(auth.authTokenLogin)
+app.use(router)
 
 http.listen(app.get('port'), function () {
   logger.info('')

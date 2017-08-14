@@ -31,3 +31,16 @@ exports.registerSession = function registerSession (token, expirationSession) {
     throw err
   })
 }
+
+exports.getSession = function getSession (token) {
+  logger.info('-----Getting user session---------')
+  client.get(token, function (reply) {
+    logger.info('la reply' + reply)
+  })
+
+  /* .then(reply => {
+    return reply
+  }).catch(err => {
+    logger.error('Error getting token from redis')
+  }) */
+}
