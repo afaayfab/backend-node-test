@@ -1,4 +1,4 @@
-
+'use strict'
 var logger = require('../util/logger')
 var chalk = require('chalk')
 var dbUtil = require('../util/mongooseUtil')

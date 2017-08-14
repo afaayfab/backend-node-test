@@ -1,0 +1,799 @@
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:41:03.118Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:41:03.122Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:03.133Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:41:03.144Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:41:03.145Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:03.145Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:41:03.184Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:41:03.184Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:03.184Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:41:03.185Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:41:03.185Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:41:03.185Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:41:03.186Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:41:03.186Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:03.186Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:41:47.370Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:41:47.374Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:47.385Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:41:47.397Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:41:47.398Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:47.398Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:41:47.431Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:41:47.432Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:47.432Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:41:47.433Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:41:47.433Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:41:47.433Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:41:47.433Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:41:47.433Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:47.433Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:41:51.242Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:41:51.248Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:51.260Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:41:51.269Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:41:51.269Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:51.269Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:41:51.312Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:41:51.312Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:51.313Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:41:51.315Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:41:51.315Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:41:51.315Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:41:51.315Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:41:51.315Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:41:51.315Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:05.107Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:05.111Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:05.121Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:05.133Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:05.133Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:05.134Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:05.170Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:44:05.171Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:05.171Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:44:05.173Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:44:05.173Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:44:05.173Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:44:05.173Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:05.173Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:05.173Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:33.041Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:33.045Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:33.056Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:33.064Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:33.065Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:33.066Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:33.102Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:44:33.102Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:33.102Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:44:33.103Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:44:33.103Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:44:33.104Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:44:33.104Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:33.104Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:33.104Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:41.680Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:41.684Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:41.695Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:41.708Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:41.708Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:41.708Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:41.748Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:44:41.748Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:41.748Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:44:41.749Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:44:41.749Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:44:41.749Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:44:41.749Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:41.749Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:41.749Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:58.664Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:58.668Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:58.678Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:44:58.688Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:44:58.688Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:58.689Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:58.726Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:44:58.726Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:58.726Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:44:58.728Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:44:58.729Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:44:58.729Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:44:58.729Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:44:58.729Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:44:58.729Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:24.124Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:24.127Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:24.138Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:24.148Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:24.149Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:24.149Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:24.187Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:45:24.188Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:24.188Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:45:24.190Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:45:24.190Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:45:24.190Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:45:24.190Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:24.190Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:24.190Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:45.673Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:45.677Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:45.687Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:45.698Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:45.698Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:45.699Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:45.738Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:45:45.738Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:45.738Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:45:45.739Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:45:45.739Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:45:45.740Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:45:45.740Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:45.740Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:45.740Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:47.901Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:47.905Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:47.915Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:47.926Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:47.927Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:47.928Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:47.964Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:45:47.965Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:47.965Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:45:47.968Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:45:47.968Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:45:47.968Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:45:47.968Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:47.968Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:47.969Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:51.616Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:51.620Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:51.631Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:51.642Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:51.642Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:51.643Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:51.681Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:45:51.681Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:51.682Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:45:51.683Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:45:51.683Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:45:51.683Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:45:51.683Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:51.683Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:51.683Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:54.777Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:54.780Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:54.791Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:45:54.803Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:45:54.803Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:54.804Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:54.842Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:45:54.842Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:54.842Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:45:54.844Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:45:54.844Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:45:54.845Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:45:54.845Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:45:54.845Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:45:54.845Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:46:25.915Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:46:25.922Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:25.938Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:46:25.945Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:46:25.945Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:25.945Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:46:25.988Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:46:25.988Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:25.988Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:46:25.989Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:46:25.990Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:46:25.990Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:46:25.990Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:46:25.990Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:25.990Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:46:32.662Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:46:32.665Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:32.676Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:46:32.689Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:46:32.690Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:32.690Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:46:32.730Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:46:32.731Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:32.731Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:46:32.732Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:46:32.732Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:46:32.732Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:46:32.732Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:46:32.732Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:32.733Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:46:41.395Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:46:41.399Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:41.409Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:46:41.419Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:46:41.419Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:41.420Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:46:41.455Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:46:41.456Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:41.456Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:46:41.457Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:46:41.457Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:46:41.457Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:46:41.457Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:46:41.457Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:46:41.458Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:47:45.310Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:47:45.313Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:45.324Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:47:45.338Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:47:45.338Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:45.338Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:47:45.381Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:47:45.381Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:45.381Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:47:45.382Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:47:45.382Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:47:45.382Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:47:45.383Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:47:45.383Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:45.383Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:47:59.161Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:47:59.165Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:59.176Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:47:59.185Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:47:59.186Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:59.186Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:47:59.223Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:47:59.224Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:59.224Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:47:59.226Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:47:59.227Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:47:59.227Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:47:59.227Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:47:59.227Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:47:59.227Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:48:33.820Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:48:33.823Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:48:33.833Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:48:33.843Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:48:33.844Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:48:33.845Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:48:33.889Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:48:33.889Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:48:33.889Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:48:33.890Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:48:33.890Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:48:33.890Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:48:33.890Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:48:33.891Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:48:33.891Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:54:24.231Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:54:24.235Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:54:24.246Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:54:24.258Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:54:24.259Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:54:24.260Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:54:24.300Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:54:24.300Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:54:24.300Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:54:24.301Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:54:24.301Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:54:24.302Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:54:24.302Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:54:24.302Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:54:24.302Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:56:00.122Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:56:00.126Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:00.138Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:56:00.151Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:56:00.151Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:00.151Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:56:00.197Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:56:00.198Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:00.198Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:56:00.199Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:56:00.199Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:56:00.199Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:56:00.199Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:56:00.199Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:00.199Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:56:35.498Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:56:35.502Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:35.512Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:56:35.523Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:56:35.523Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:35.525Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:56:35.562Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:56:35.563Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:35.563Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:56:35.565Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:56:35.565Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:56:35.566Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:56:35.566Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:56:35.566Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:35.566Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:56:43.586Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:56:43.590Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:43.600Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:56:43.612Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:56:43.612Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:43.613Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:56:43.647Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:56:43.647Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:43.647Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:56:43.648Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:56:43.648Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:56:43.648Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:56:43.648Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:56:43.648Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:56:43.648Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:57:17.929Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:57:17.933Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:57:17.943Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:57:17.955Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:57:17.955Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:57:17.957Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:57:17.996Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:57:17.996Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:57:17.997Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:57:17.999Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:57:17.999Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:57:17.999Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:57:17.999Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:57:17.999Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:57:17.999Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:58:41.790Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:58:41.794Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:41.804Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:58:41.812Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:58:41.813Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:41.813Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:58:41.850Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:58:41.850Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:41.851Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:58:41.851Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:58:41.852Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:58:41.852Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:58:41.852Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:58:41.852Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:41.852Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:58:47.354Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:58:47.358Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:47.375Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:58:47.390Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:58:47.390Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:47.391Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:58:47.437Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:58:47.438Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:47.438Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:58:47.441Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:58:47.442Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:58:47.442Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:58:47.442Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:58:47.443Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:58:47.443Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:59:11.444Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:59:11.449Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:11.462Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:59:11.468Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:59:11.469Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:11.469Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:59:11.514Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:59:11.514Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:11.514Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:59:11.515Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:59:11.515Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:59:11.515Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:59:11.515Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:59:11.515Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:11.515Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:59:19.182Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:59:19.185Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:19.196Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T16:59:19.205Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T16:59:19.205Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:19.206Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:59:19.242Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T16:59:19.242Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:19.242Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T16:59:19.243Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T16:59:19.243Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T16:59:19.243Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T16:59:19.243Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T16:59:19.243Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T16:59:19.243Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:00:50.773Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:00:50.776Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:00:50.788Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:00:50.797Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:00:50.798Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:00:50.799Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:00:50.841Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:00:50.841Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:00:50.841Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:00:50.842Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:00:50.842Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:00:50.842Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:00:50.842Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:00:50.842Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:00:50.842Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:00:50.865Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:01:42.555Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:01:42.559Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:01:42.570Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:01:42.583Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:01:42.583Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:01:42.584Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:01:42.624Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:01:42.624Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:01:42.624Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:01:42.625Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:01:42.625Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:01:42.626Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:01:42.626Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:01:42.626Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:01:42.626Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:01:42.657Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:02:33.854Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:02:33.858Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:33.869Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:02:33.878Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:02:33.879Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:33.879Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:02:33.915Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:02:33.915Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:33.915Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:02:33.916Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:02:33.916Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:02:33.916Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:02:33.916Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:02:33.916Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:33.917Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:02:33.938Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:02:38.734Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:02:38.737Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:38.748Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:02:38.756Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:02:38.756Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:38.757Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:02:38.795Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:02:38.795Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:38.795Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:02:38.796Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:02:38.796Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:02:38.796Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:02:38.796Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:02:38.796Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:02:38.796Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:02:38.828Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:03.732Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:03.739Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:03.750Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:03.763Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:03.763Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:03.764Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:03.817Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:03:03.818Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:03.819Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:03:03.820Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:03:03.820Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:03:03.821Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:03:03.821Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:03.821Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:03.821Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:03:03.855Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:17.195Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:17.199Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:17.217Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:17.228Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:17.229Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:17.229Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:17.275Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:03:17.275Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:17.275Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:03:17.277Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:03:17.277Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:03:17.277Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:03:17.277Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:17.277Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:17.277Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:03:17.311Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:21.346Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:21.350Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:21.361Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:21.372Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:21.373Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:21.374Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:21.415Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:03:21.416Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:21.416Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:03:21.418Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:03:21.418Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:03:21.418Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:03:21.418Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:21.418Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:21.418Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:03:21.448Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:58.146Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:58.150Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:58.161Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:03:58.171Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:03:58.172Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:58.173Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:58.212Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:03:58.213Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:58.213Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:03:58.214Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:03:58.215Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:03:58.215Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:03:58.215Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:03:58.215Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:03:58.215Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:03:58.237Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:04:08.216Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:04:08.220Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:08.231Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:04:08.239Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:04:08.240Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:08.241Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:04:08.277Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:04:08.277Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:08.277Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:04:08.278Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:04:08.278Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:04:08.278Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:04:08.278Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:04:08.278Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:08.278Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:04:08.302Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:04:19.126Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:04:19.130Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:19.140Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:04:19.148Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:04:19.148Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:19.148Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:04:19.188Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:04:19.188Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:19.188Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:04:19.189Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:04:19.189Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:04:19.190Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:04:19.190Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:04:19.190Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:19.190Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:04:19.220Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:04:23.650Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:04:23.655Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:23.667Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:04:23.674Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:04:23.674Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:23.675Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:04:23.718Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:04:23.719Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:23.719Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:04:23.721Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:04:23.721Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:04:23.721Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:04:23.721Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:04:23.721Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:04:23.721Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:04:23.749Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:05:08.646Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:05:08.649Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:08.660Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:05:08.672Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:05:08.672Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:08.673Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:05:08.707Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:05:08.707Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:08.707Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:05:08.708Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:05:08.708Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:05:08.708Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:05:08.708Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:05:08.708Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:08.708Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:05:08.735Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:05:12.269Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:05:12.272Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:12.283Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:05:12.293Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:05:12.293Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:12.294Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:05:12.328Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:05:12.328Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:12.328Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:05:12.329Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:05:12.329Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:05:12.329Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:05:12.329Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:05:12.329Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:12.329Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:05:12.356Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:05:35.394Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:05:35.397Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:35.408Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:05:35.418Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:05:35.419Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:35.420Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:05:35.453Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:05:35.453Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:35.453Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:05:35.454Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:05:35.455Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:05:35.455Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:05:35.455Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:05:35.455Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:05:35.455Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:05:35.479Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:06:28.381Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:06:28.385Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:28.395Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:06:28.402Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:06:28.403Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:28.403Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:06:28.444Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:06:28.444Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:28.444Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:06:28.446Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:06:28.446Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:06:28.446Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:06:28.446Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:06:28.446Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:28.446Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:06:28.470Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:06:50.073Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:06:50.076Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:50.087Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:06:50.098Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:06:50.099Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:50.100Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:06:50.134Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:06:50.134Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:50.134Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:06:50.135Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:06:50.135Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:06:50.135Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:06:50.135Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:06:50.135Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:50.135Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:06:50.164Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:06:56.080Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:06:56.083Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:56.094Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:06:56.104Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:06:56.105Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:56.106Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:06:56.143Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:06:56.143Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:56.143Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:06:56.145Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:06:56.145Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:06:56.145Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:06:56.145Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:06:56.145Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:06:56.145Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:06:56.167Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:07:40.942Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:07:40.945Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:40.956Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:07:40.966Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:07:40.967Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:40.968Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:07:41.001Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:07:41.001Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:41.001Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:07:41.002Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:07:41.002Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:07:41.002Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:07:41.002Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:07:41.002Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:41.002Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:07:41.030Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:07:58.972Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:07:58.976Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:58.986Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:07:58.998Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:07:58.998Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:58.998Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:07:59.035Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:07:59.035Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:59.035Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:07:59.036Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:07:59.036Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:07:59.036Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:07:59.037Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:07:59.037Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:07:59.037Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:07:59.064Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:02.779Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:02.783Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:02.793Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:02.804Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:02.805Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:02.806Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:02.839Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:08:02.839Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:02.839Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:08:02.840Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:08:02.840Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:08:02.840Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:08:02.840Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:02.841Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:02.841Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:08:02.866Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:05.121Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:05.125Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:05.135Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:05.146Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:05.146Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:05.147Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:05.178Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:08:05.178Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:05.178Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:08:05.180Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:08:05.181Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:08:05.181Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:08:05.181Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:05.181Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:05.181Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:08:05.207Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:26.392Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:26.397Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:26.410Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:26.418Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:26.418Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:26.419Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:26.463Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:08:26.463Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:26.463Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:08:26.465Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:08:26.465Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:08:26.465Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:08:26.465Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:26.465Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:26.465Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:08:26.496Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:32.080Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:32.084Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:32.094Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:08:32.106Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:08:32.106Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:32.107Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:32.142Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:08:32.142Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:32.142Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:08:32.143Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:08:32.143Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:08:32.143Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:08:32.143Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:08:32.143Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:08:32.143Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:08:32.165Z"}
+{"level":"ok","message":"\u001b[31mGET /user\u001b[39m","timestamp":"2017-08-14T17:10:46.200Z"}
+{"level":"ok","message":"POST /user","timestamp":"2017-08-14T17:11:03.603Z"}
+{"user":"afaa","password":"caca","level":"ok","message":"","timestamp":"2017-08-14T17:11:03.603Z"}
+{"level":"ok","message":"POST /user","timestamp":"2017-08-14T17:11:31.585Z"}
+{"user":"afaa","password":"caca","name":"alberto","surname":"alcolea","level":"ok","message":"","timestamp":"2017-08-14T17:11:31.585Z"}
+{"level":"ok","message":"\u001b[31mGET /user\u001b[39m","timestamp":"2017-08-14T17:11:44.779Z"}
+{"level":"ok","message":"\u001b[31mGET /user/5991d9c3ee20ab202b43d2d0\u001b[39m","timestamp":"2017-08-14T17:11:49.823Z"}
+{"__v":0,"password":"caca","user":"afaa","surname":"alcolea","name":"alberto","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":145,"2":217,"3":195,"4":238,"5":32,"6":171,"7":32,"8":43,"9":67,"10":210,"11":208}},"level":"ok","message":"","timestamp":"2017-08-14T17:11:49.823Z"}
+{"level":"info","message":"User token creation: {\"_id\":\"5991d9c3ee20ab202b43d2d0\",\"name\":\"alberto\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"caca\",\"__v\":0}","timestamp":"2017-08-14T17:13:42.581Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:14:20.038Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:14:20.041Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:14:20.057Z"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"2017-08-14T17:14:20.073Z"}
+{"env":"development","port":3000,"errorLevel":"ok","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"c:\\api-rest-log\\api-rest-dev.log","authToken":"mytokensecret1234","level":"info","message":"","timestamp":"2017-08-14T17:14:20.073Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:14:20.074Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:14:20.116Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-14T17:14:20.117Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:14:20.118Z"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"2017-08-14T17:14:20.120Z"}
+{"level":"info","message":"IP:\t\tundefined","timestamp":"2017-08-14T17:14:20.120Z"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"2017-08-14T17:14:20.120Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-14T17:14:20.121Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-14T17:14:20.121Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-14T17:14:20.121Z"}
+{"level":"info","message":"\u001b[34mConnected to mongodb: usersDb\u001b[39m","timestamp":"2017-08-14T17:14:20.153Z"}
+{"level":"info","message":"User token creation: {\"_id\":\"5991d9c3ee20ab202b43d2d0\",\"name\":\"alberto\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"caca\",\"__v\":0}","timestamp":"2017-08-14T17:14:22.129Z"}
