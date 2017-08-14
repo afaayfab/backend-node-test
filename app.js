@@ -6,17 +6,20 @@ var bodyParser = require('body-parser')
 var methodOverride = require('method-override')
 var app = express()
 var http = require('http').Server(app)
-var config = require('./config.js')
+require('./config.js')
 var logger = require('./api/util/logger')
 require('./api/model/user')
 let env = require('./api/util/environment')
 var mongoose = require('./api/util/mongooseUtil')
 var userController = require('./api/controller/api_user')
 let auth = require('./api/controller/auth')
+var redisUtil = require('./api/util/redisUtil')
 
 var uri
 
 let configEnv = env.managementConfig()
+
+uri = configEnv.host
 // Middlewares
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json())
@@ -24,6 +27,8 @@ app.use(methodOverride())
 app.set('port', configEnv.port)
 // Se coneocta a la base de datos de usuarios
 mongoose.mananageConnection(configEnv)
+// Se conecta al redis
+redisUtil.mananageConnection(configEnv)
 
 let router = express.Router()
 

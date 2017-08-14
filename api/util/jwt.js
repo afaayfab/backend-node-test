@@ -3,6 +3,7 @@ var jwt = require('jwt-simple')
 var moment = require('moment')
 var config = require('../../config')
 let enviromentConfigLib = require('./environment')
+
 let enviromentConfig = enviromentConfigLib.managementConfig()
 exports.ensureAuthenticated = function (req, res, next) {
   if (!req.headers.authorization) {
