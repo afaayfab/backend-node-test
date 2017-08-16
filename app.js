@@ -15,6 +15,8 @@ var userController = require('./api/controller/api_user')
 let auth = require('./api/controller/auth')
 var redisUtil = require('./api/util/redisUtil')
 var jwtauth = require('./api/controller/middelware')
+var io = require('socket.io')(http)
+var logIO = require('./log_viewer/viewwer')
 // require('winston-logs-display')(app, logger)
 
 var uri
@@ -37,6 +39,8 @@ let router = express.Router()
 
 // Fin rutas
 app.all('/api/*', jwtauth)
+app.use(express.static(__dirname + '/static'))
+logIO.initLoggerWebSocket(io)
 // Rutas
 router.route('/api/user').get(userController.findAll).post(userController.add)
 router.route('/api/user/:id').get(userController.getById).post(userController.update).delete(userController.delete)
