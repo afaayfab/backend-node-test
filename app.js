@@ -27,9 +27,10 @@ app.use(bodyParser.json())
 app.use(methodOverride())
 app.set('port', configEnv.port)
 // Se coneocta a la base de datos de usuarios
-mongoose.mananageConnection(configEnv)
+
+mongoose.manageConnection(configEnv)
 // Se conecta al redis
-redisUtil.mananageConnection(configEnv)
+redisUtil.manageConnection(configEnv)
 
 let router = express.Router()
 

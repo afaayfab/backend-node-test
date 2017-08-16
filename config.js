@@ -37,5 +37,6 @@ module.exports = {
     redisHost: 'localhost',
     redisPort: '6379',
     expirationSession: 864000000
+
   }
 }
