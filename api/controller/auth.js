@@ -6,6 +6,7 @@ let logger = require('../util/logger')
 let apiUser = require('./api_user')
 let enviromentConfigLib = require('../util/environment')
 
+
 exports.authTokenLogin = function (req, res) {
   var config = enviromentConfigLib.managementConfig()
   var userReq = req.body.user
