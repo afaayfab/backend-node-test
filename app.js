@@ -15,6 +15,7 @@ var userController = require('./api/controller/api_user')
 let auth = require('./api/controller/auth')
 var redisUtil = require('./api/util/redisUtil')
 var jwtauth = require('./api/controller/middelware')
+// require('winston-logs-display')(app, logger)
 
 var uri
 
