@@ -13,7 +13,7 @@ module.exports = function (req, res, next) {
       } else {
         res.status(401).json({
           code: 401,
-          message: 'Token is expired'
+          message: 'Token is already expired'
         })
       }
     }).catch(err => {
