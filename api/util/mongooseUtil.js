@@ -4,7 +4,7 @@ let mongoose = require('mongoose')
 var logger = require('./logger')
 var chalk = require('chalk')
 
-exports.mananageConnection = function manageConnection (config) {
+exports.manageConnection = function manageConnection (config) {
   mongoose.connect(config.dbhost + config.database, { useMongoClient: true }, function (err, res) {
     if (err) throw err
     logger.info(chalk.blue('Connected to mongodb: ' + config.database))

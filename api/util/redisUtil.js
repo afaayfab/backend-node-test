@@ -5,7 +5,7 @@ let Promise = require('bluebird')
 let redis = Promise.promisifyAll(require('redis'))
 let chalk = require('chalk')
 var client
-exports.mananageConnection = function mananageConnection (configEnv) {
+exports.manageConnection = function manageConnection (configEnv) {
 // Se conecta al redis
   logger.info('Connecting to redis')
   client = redis.createClient(configEnv.redisPort, configEnv.redisHost)
