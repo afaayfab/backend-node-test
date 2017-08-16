@@ -27,6 +27,7 @@ app.use(bodyParser.json())
 app.use(methodOverride())
 app.set('port', configEnv.port)
 // Se coneocta a la base de datos de usuarios
+
 mongoose.manageConnection(configEnv)
 // Se conecta al redis
 redisUtil.manageConnection(configEnv)
