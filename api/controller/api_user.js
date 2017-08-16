@@ -1,4 +1,4 @@
-
+'use strict'
 var logger = require('../util/logger')
 var chalk = require('chalk')
 var dbUtil = require('../util/mongooseUtil')
@@ -31,7 +31,7 @@ var User = mongoose.model('User')
  */
 exports.delete = function (req, res) {
   User.Id(req.params.id).then(user => {
-    user.remove().then(res => {
+    user.removeAsync().then(res => {
       res.json({ code: 200, message: 'Successfully deleted' })
     }).catch(err => {
       dbUtil.manageDBError(err, res)
@@ -76,7 +76,7 @@ exports.delete = function (req, res) {
  * 
  */
 exports.findAll = function (req, res) {
-  User.find().then(users => {
+  User.findAsync().then(users => {
     logger.ok(chalk.red('GET /user'))
     res.status(200).jsonp(users)
   }).catch(err => {
@@ -132,30 +132,40 @@ exports.findAll = function (req, res) {
 exports.add = function (req, res) {
   logger.ok('POST /user')
   logger.ok(req.body)
-  var user
   var err = {}
   if (req.body.constructor === Object && Object.keys(req.body).length === 0) {
     err.message = 'The body request is empty'
     err.code = 500
     dbUtil.manageDBError(err, res)
   }
-  try {
-    user = new User({
-      name: req.body.name,
-      surname: req.body.surname,
-      user: req.body.user,
-      password: req.body.password
-    })
-  } catch (e) {
-    logger.error('Error User json validation')
-    err.message = 'Error User json validation'
-    err.code = 500
+  User.findOneAsync({user: req.body.user}).then(user => {
+    if (user === undefined || user === null) {
+      try {
+        user = new User({
+          name: req.body.name,
+          surname: req.body.surname,
+          user: req.body.user,
+          password: req.body.password
+        })
+      } catch (e) {
+        logger.error('Error User json validation')
+        var err = {}
+        err.message = 'Error User json validation'
+        err.code = 500
+        dbUtil.manageDBError(err, res)
+      }
+      user.saveAsync(function (err, user) {
+        dbUtil.manageDBError(err, res)
+        res.status(200).jsonp(user)
+      })
+    } else {
+      var error = {}
+      error.code = 500
+      error.message = 'User already exists'
+      dbUtil.manageDBError(error, res)
+    }
+  }).catch(err => {
     dbUtil.manageDBError(err, res)
-  }
-
-  user.save(function (err, user) {
-    dbUtil.manageDBError(err, res)
-    res.status(200).jsonp(user)
   })
 }
 
@@ -186,7 +196,7 @@ exports.add = function (req, res) {
  */
 exports.getById = function (req, res) {
   var id = req.params.id
-  User.findById(id).then(user => {
+  User.findByIdAsync(id).then(user => {
     logger.ok(chalk.red('GET /user/' + id))
     logger.ok(user._doc)
     res.status(200).jsonp(user)
@@ -240,7 +250,7 @@ exports.getById = function (req, res) {
  * 
  */
 exports.update = function (req, res) {
-  User.Id(req.params.id).then(user => {
+  User.findByIdAsync(req.params.id).then(user => {
     if (!user) {
       var myError = {}
       myError.message = 'This user does not exist'
@@ -251,9 +261,25 @@ exports.update = function (req, res) {
     user.surname = req.body.surname
     user.user = req.body.user
     user.password = req.body.password
-    user.save().then(err => {
-      dbUtil.manageDBError(err, res)
+    user.saveAsync().then(user => {
       res.status(200).jsonp(user)
+    }).catch(err => {
+      dbUtil.manageDBError(err, res)
     })
+  }).catch(err => {
+    dbUtil.manageDBError(err, res)
+  })
+}
+
+exports.findByElement = function (field, value) {
+  return User.findOneAsync({field: value}).then(user => {
+    if (user !== undefined && user !== null) {
+      logger.info('User found: ' + field + ' : ' + value + '=>' + user)
+    } else {
+      logger.info('User not found: ' + field + ' : ' + value + '=>' + user)
+    }
+    return user
+  }).catch(err => {
+    logger.error('Error seraching user =>' + err)
   })
 }

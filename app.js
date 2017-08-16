@@ -1,3 +1,4 @@
+'use strict'
 // require Express and Socket.io
 var express = require('express')
 var chalk = require('chalk')
@@ -5,17 +6,21 @@ var bodyParser = require('body-parser')
 var methodOverride = require('method-override')
 var app = express()
 var http = require('http').Server(app)
-var config = require('./config.js')
+require('./config.js')
 var logger = require('./api/util/logger')
 require('./api/model/user')
 let env = require('./api/util/environment')
 var mongoose = require('./api/util/mongooseUtil')
 var userController = require('./api/controller/api_user')
 let auth = require('./api/controller/auth')
+var redisUtil = require('./api/util/redisUtil')
+var jwtauth = require('./api/controller/middelware')
 
 var uri
 
 let configEnv = env.managementConfig()
+
+uri = configEnv.host
 // Middlewares
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json())
@@ -23,16 +28,18 @@ app.use(methodOverride())
 app.set('port', configEnv.port)
 // Se coneocta a la base de datos de usuarios
 mongoose.mananageConnection(configEnv)
+// Se conecta al redis
+redisUtil.mananageConnection(configEnv)
 
 let router = express.Router()
 
-// Rutas
-router.route('/user').get(userController.findAll).post(userController.add)
-router.route('/user/:id').get(userController.getById).post(userController.update).delete(userController.delete)
-router.route('/auth').post(auth.authTokenLogin)
 // Fin rutas
-
-app.use('/api', router)
+app.all('/api/*', jwtauth)
+// Rutas
+router.route('/api/user').get(userController.findAll).post(userController.add)
+router.route('/api/user/:id').get(userController.getById).post(userController.update).delete(userController.delete)
+router.route('/auth').post(auth.authTokenLogin)
+app.use(router)
 
 http.listen(app.get('port'), function () {
   logger.info('')

@@ -1,7 +1,9 @@
-var jwt = require('jwt-simple')
+'use strict'
+var jwtSimle = require('jwt-simple')
 var moment = require('moment')
 var config = require('../../config')
 let enviromentConfigLib = require('./environment')
+
 let enviromentConfig = enviromentConfigLib.managementConfig()
 exports.ensureAuthenticated = function (req, res, next) {
   if (!req.headers.authorization) {
@@ -11,7 +13,7 @@ exports.ensureAuthenticated = function (req, res, next) {
   }
 
   var token = req.headers.authorization.split(' ')[1]
-  var payload = jwt.decode(token, config.TOKEN_SECRET)
+  var payload = jwtSimle.decode(token, config.TOKEN_SECRET)
 
   if (payload.exp <= moment().unix()) {
     return res.status(401)
@@ -24,9 +26,9 @@ exports.ensureAuthenticated = function (req, res, next) {
 
 exports.createToken = function (user) {
   var payload = {
-    sub: user._id
-    /* iat: moment().unix(),
-    exp: moment().add(14, 'days').unix() */
+    sub: user._id,
+    iat: moment().unix(),
+    exp: moment().add(14, 'days').unix()
   }
-  return jwt.encode(payload, enviromentConfig.authToken)
+  return jwtSimle.encode(payload, enviromentConfig.authToken)
 }

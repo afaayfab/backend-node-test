@@ -4,6 +4,9 @@ var logger = require('./logger')
 
 exports.managementConfig = function managementConfig () {
   var environment = process.env.NODE_ENV
+  if (environment === undefined) {
+    environment = 'debug'
+  }
   var envConf
   if (environment === 'development') {
     logger.info('------------------INFO----------------------------')
@@ -16,9 +19,9 @@ exports.managementConfig = function managementConfig () {
     logger.info('----------------------------------------------')
     envConf = config.build
   } else {
-    logger.info('------------------INFO----------------------------')
+    /* logger.info('------------------INFO----------------------------')
     logger.info(config.debug)
-    logger.info('----------------------------------------------')
+    logger.info('----------------------------------------------') */
     envConf = config.debug
     process.env.NODE_ENV = 'debug'
   }

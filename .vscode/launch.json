@@ -8,9 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}\\app.js"
+            "program": "${workspaceRoot}/app"
         }
     ]
 }
-
-http://ttsrcod01:8080/tfs/Producto_CCO/_git/Proyecto_CCO
