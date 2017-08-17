@@ -6,7 +6,6 @@ let logger = require('../util/logger')
 let apiUser = require('./api_user')
 let enviromentConfigLib = require('../util/environment')
 
-
 exports.authTokenLogin = function (req, res) {
   var config = enviromentConfigLib.managementConfig()
   var userReq = req.body.user
@@ -17,10 +16,9 @@ exports.authTokenLogin = function (req, res) {
         if (req.body.password !== undefined && req.body.password === user.password) {
           logger.info('User token creation: ' + JSON.stringify(user))
           var token = {token: jwt.createToken(user)}
-          redisUtil.registerSession(token.token, user.user, config.expirationSession).then(()=>{
+          redisUtil.registerSession(token.token, user.user, config.expirationSession).then(() => {
             res.status(200).send(token)
           })
-          
         } else {
           authenticationError(res)
         }
