@@ -16,10 +16,9 @@ exports.authTokenLogin = function (req, res) {
         if (req.body.password !== undefined && req.body.password === user.password) {
           logger.info('User token creation: ' + JSON.stringify(user))
           var token = {token: jwt.createToken(user)}
-          redisUtil.registerSession(token.token, user.user, config.expirationSession).then(()=>{
+          redisUtil.registerSession(token.token, user.user, config.expirationSession).then(() => {
             res.status(200).send(token)
           })
-          
         } else {
           authenticationError(res)
         }

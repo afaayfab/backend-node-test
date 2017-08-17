@@ -1,0 +1,18 @@
+{"level":"info","message":"Connecting to redis","timestamp":"2017-08-16T15:46:06.998Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-16T15:46:07.009Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-16T15:46:07.009Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-16T15:46:07.009Z"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"2017-08-16T15:46:07.010Z"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"2017-08-16T15:46:07.010Z"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"2017-08-16T15:46:07.010Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-16T15:46:07.010Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-16T15:46:07.010Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-16T15:46:07.010Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-16T15:46:07.014Z"}
+{"level":"info","message":"Redis connected!","timestamp":"2017-08-16T15:46:07.014Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-16T15:46:07.014Z"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"2017-08-16T15:46:07.015Z"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"2017-08-16T15:46:07.015Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-16T15:46:07.015Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-16T15:46:07.015Z"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"2017-08-16T15:46:07.018Z"}

@@ -28,14 +28,21 @@ transports.push(new winston.transports.DailyRotateFile({
   prettyPrint: true,
   filename: logDirectory,
   datePattern: 'yyyy-MM-dd.',
-  prepend: true
+  prepend: true,
+  json: true,
+  align: true,
+  humanReadableUnhandledException: true,
+  timestamp: true
 
 }))
 
 transports.push(new winston.transports.Console({
   level: level,
   colorize: true,
-  prettyPrint: true
+  prettyPrint: true,
+  align: true,
+  humanReadableUnhandledException: true,
+  timestamp: true
   // ,
   // handleExceptions: process.env.NODE_ENV === "production"
 }))
