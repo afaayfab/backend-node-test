@@ -35,7 +35,8 @@
     "jwt-simple": "0.5.1",
     "moment": "2.18.1",
     "redis": "2.8.0",
-    "winston-logs-display-with-pagination": "0.1.1"
+    "winston-logs-display-with-pagination": "0.1.1",
+    "amqp": "0.2.6"
   },
   "devDependencies": {
     "eslint-config-google": "^0.9.1",

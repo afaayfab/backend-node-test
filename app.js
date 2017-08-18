@@ -1,4 +1,5 @@
 'use strict'
+var logger = require('./api/util/logger')
 // require Express and Socket.io
 var express = require('express')
 var chalk = require('chalk')
@@ -7,18 +8,19 @@ var methodOverride = require('method-override')
 var app = express()
 var http = require('http').Server(app)
 require('./config.js')
-var logger = require('./api/util/logger')
+
 require('./api/model/user')
-let env = require('./api/util/environment')
-var mongoose = require('./api/util/mongooseUtil')
-var userController = require('./api/controller/api_user')
-let auth = require('./api/controller/auth')
-var redisUtil = require('./api/util/redisUtil')
+let env = require('./api/util/environment')(logger)
+var mongoose = require('./api/util/mongooseUtil')(logger)
+var userController = require('./api/controller/api_user')(logger)
+let auth = require('./api/controller/auth')(logger)
+var redisUtil = require('./api/util/redisUtil')(logger)
 var jwtauth = require('./api/controller/middelware')
 var io = require('socket.io')(http)
 var logIO = require('./log_viewer/viewwer')
 // require('winston-logs-display')(app, logger)
 
+// var receiver = require('./api/util/rabbit/receiver')
 var uri
 
 let configEnv = env.managementConfig()
@@ -34,6 +36,10 @@ app.set('port', configEnv.port)
 mongoose.manageConnection(configEnv)
 // Se conecta al redis
 redisUtil.manageConnection(configEnv)
+
+// receiver.manageReceiver(configEnv)
+
+// publisher.managePublisher(configEnv)
 
 let router = express.Router()
 

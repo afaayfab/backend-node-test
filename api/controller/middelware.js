@@ -1,9 +1,7 @@
 'use strict'
-let logger = require('../util/logger')
 
-let redisUtil = require('../util/redisUtil')
-
-module.exports = function (req, res, next) {
+module.exports = function (logger, req, res, next) {
+  let redisUtil = require('../util/redisUtil')(logger)
   var token = (req.body && req.body.access_token) || (req.query && req.query.access_token) || req.headers['x-access-token']
   if (token) {
     redisUtil.getSession(token).then(value => {
@@ -13,7 +11,7 @@ module.exports = function (req, res, next) {
       } else {
         res.status(401).json({
           code: 401,
-          message: 'Token is eired'
+          message: 'Token is expired'
         })
       }
     }).catch(err => {

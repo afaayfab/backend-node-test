@@ -15,7 +15,7 @@ module.exports = {
   dev: {
     env: 'development',
     port: 3000,
-    errorLevel: 'ok',
+    errorLevel: 'debug',
     host: 'localhost',
     database: 'usersDb',
     dbhost: 'mongodb://localhost/',
@@ -28,7 +28,7 @@ module.exports = {
   debug: {
     env: 'debug',
     port: 8080,
-    errorLevel: 'ok',
+    errorLevel: 'debug',
     host: 'localhost',
     database: 'usersDb',
     dbhost: 'mongodb://localhost/',
