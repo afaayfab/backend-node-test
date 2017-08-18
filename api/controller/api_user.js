@@ -1,11 +1,14 @@
 'use strict'
-var logger = require('../util/logger')
 var chalk = require('chalk')
 var dbUtil = require('../util/mongooseUtil')
 let Promise = require('bluebird')
 let mongoose = Promise.promisifyAll(require('mongoose'))
 var User = mongoose.model('User')
-/**
+
+module.exports = function (logger) {
+  return {
+
+    /**
  * @apiDescription Delete an existing user by its Id
  * @api {DELETE} /user/:id Delete an user
  * @apiName update
@@ -29,19 +32,19 @@ var User = mongoose.model('User')
   }
  * 
  */
-exports.delete = function (req, res) {
-  User.Id(req.params.id).then(user => {
-    user.removeAsync().then(res => {
-      res.json({ code: 200, message: 'Successfully deleted' })
-    }).catch(err => {
-      dbUtil.manageDBError(err, res)
-    })
-  }).catch(err => {
-    dbUtil.manageDBError(err, res)
-  })
-}
+    delete: function (req, res) {
+      User.Id(req.params.id).then(user => {
+        user.removeAsync().then(res => {
+          res.json({ code: 200, message: 'Successfully deleted' })
+        }).catch(err => {
+          dbUtil.manageDBError(err, res)
+        })
+      }).catch(err => {
+        dbUtil.manageDBError(err, res)
+      })
+    },
 
-/**
+    /**
  * @apiDescription Get all Users stored in database
  * @api {GET} /user Request User information
  * @apiName findAll
@@ -75,16 +78,16 @@ exports.delete = function (req, res) {
  * 
  * 
  */
-exports.findAll = function (req, res) {
-  User.findAsync().then(users => {
-    logger.ok(chalk.red('GET /user'))
-    res.status(200).jsonp(users)
-  }).catch(err => {
-    dbUtil.manageDBError(err, res)
-  })
-}
+    findAll: function (req, res) {
+      User.findAsync().then(users => {
+        logger.debug(chalk.red('GET /user'))
+        res.status(200).jsonp(users)
+      }).catch(err => {
+        dbUtil.manageDBError(err, res)
+      })
+    },
 
-/**
+    /**
  * @apiDescription Add a new user to de database
  * @api {POST} /user Add a new user
  * @apiName add
@@ -129,47 +132,47 @@ exports.findAll = function (req, res) {
   }
  * 
  */
-exports.add = function (req, res) {
-  logger.ok('POST /user')
-  logger.ok(req.body)
-  var err = {}
-  if (req.body.constructor === Object && Object.keys(req.body).length === 0) {
-    err.message = 'The body request is empty'
-    err.code = 500
-    dbUtil.manageDBError(err, res)
-  }
-  User.findOneAsync({user: req.body.user}).then(user => {
-    if (user === undefined || user === null) {
-      try {
-        user = new User({
-          name: req.body.name,
-          surname: req.body.surname,
-          user: req.body.user,
-          password: req.body.password
-        })
-      } catch (e) {
-        logger.error('Error User json validation')
-        var err = {}
-        err.message = 'Error User json validation'
+    add: function (req, res) {
+      logger.debug('POST /user')
+      logger.debug(req.body)
+      var err = {}
+      if (req.body.constructor === Object && Object.keys(req.body).length === 0) {
+        err.message = 'The body request is empty'
         err.code = 500
         dbUtil.manageDBError(err, res)
       }
-      user.saveAsync(function (err, user) {
+      User.findOneAsync({user: req.body.user}).then(user => {
+        if (user === undefined || user === null) {
+          try {
+            user = new User({
+              name: req.body.name,
+              surname: req.body.surname,
+              user: req.body.user,
+              password: req.body.password
+            })
+          } catch (e) {
+            logger.error('Error User json validation')
+            var err = {}
+            err.message = 'Error User json validation'
+            err.code = 500
+            dbUtil.manageDBError(err, res)
+          }
+          user.saveAsync(function (err, user) {
+            dbUtil.manageDBError(err, res)
+            res.status(200).jsonp(user)
+          })
+        } else {
+          var error = {}
+          error.code = 500
+          error.message = 'User already exists'
+          dbUtil.manageDBError(error, res)
+        }
+      }).catch(err => {
         dbUtil.manageDBError(err, res)
-        res.status(200).jsonp(user)
       })
-    } else {
-      var error = {}
-      error.code = 500
-      error.message = 'User already exists'
-      dbUtil.manageDBError(error, res)
-    }
-  }).catch(err => {
-    dbUtil.manageDBError(err, res)
-  })
-}
+    },
 
-/**
+    /**
  * @apiDescription Get an Users by Id
  * @api {GET} /user/:id Request User information by Id
  * @apiName getById
@@ -194,18 +197,18 @@ exports.add = function (req, res) {
  * 
  * 
  */
-exports.getById = function (req, res) {
-  var id = req.params.id
-  User.findByIdAsync(id).then(user => {
-    logger.ok(chalk.red('GET /user/' + id))
-    logger.ok(user._doc)
-    res.status(200).jsonp(user)
-  }).catch(err => {
-    dbUtil.manageDBError(err, res)
-  })
-}
+    getById: function (req, res) {
+      var id = req.params.id
+      User.findByIdAsync(id).then(user => {
+        logger.debug(chalk.red('GET /user/' + id))
+        logger.debug(user._doc)
+        res.status(200).jsonp(user)
+      }).catch(err => {
+        dbUtil.manageDBError(err, res)
+      })
+    },
 
-/**
+    /**
  * @apiDescription Update an existing user by its Id
  * @api {POST} /user/:id Update an user
  * @apiName update
@@ -249,37 +252,41 @@ exports.getById = function (req, res) {
   }
  * 
  */
-exports.update = function (req, res) {
-  User.findByIdAsync(req.params.id).then(user => {
-    if (!user) {
-      var myError = {}
-      myError.message = 'This user does not exist'
-      myError.code = '200'
-      dbUtil.manageDBError(myError, res)
-    }
-    user.name = req.body.name
-    user.surname = req.body.surname
-    user.user = req.body.user
-    user.password = req.body.password
-    user.saveAsync().then(user => {
-      res.status(200).jsonp(user)
-    }).catch(err => {
-      dbUtil.manageDBError(err, res)
-    })
-  }).catch(err => {
-    dbUtil.manageDBError(err, res)
-  })
-}
+    update: function (req, res) {
+      User.findByIdAsync(req.params.id).then(user => {
+        if (!user) {
+          var myError = {}
+          myError.message = 'This user does not exist'
+          myError.code = '200'
+          dbUtil.manageDBError(myError, res)
+        }
+        user.name = req.body.name
+        user.surname = req.body.surname
+        user.user = req.body.user
+        user.password = req.body.password
+        user.saveAsync().then(user => {
+          res.status(200).jsonp(user)
+        }).catch(err => {
+          dbUtil.manageDBError(err, res)
+        })
+      }).catch(err => {
+        dbUtil.manageDBError(err, res)
+      })
+    },
 
-exports.findByElement = function (field, value) {
-  return User.findOneAsync({field: value}).then(user => {
-    if (user !== undefined && user !== null) {
-      logger.info('User found: ' + field + ' : ' + value + '=>' + user)
-    } else {
-      logger.info('User not found: ' + field + ' : ' + value + '=>' + user)
+    findByElement: function (field, value) {
+      var search = {}
+      search[field] = value
+      return User.findOneAsync(search).then(user => {
+        if (user !== undefined && user !== null) {
+          logger.info('User found: ' + field + ' : ' + value + '=>' + user)
+        } else {
+          logger.info('User not found: ' + field + ' : ' + value + '=>' + user)
+        }
+        return user
+      }).catch(err => {
+        logger.error('Error seraching user =>' + err)
+      })
     }
-    return user
-  }).catch(err => {
-    logger.error('Error seraching user =>' + err)
-  })
+  }
 }

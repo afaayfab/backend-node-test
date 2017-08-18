@@ -1,0 +1,302 @@
+{"level":"info","message":"Connecting to redis","timestamp":"2017-08-17T06:59:58.147Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-17T06:59:58.159Z"}
+{"level":"info","message":"Application started!","timestamp":"2017-08-17T06:59:58.159Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-17T06:59:58.159Z"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"2017-08-17T06:59:58.160Z"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"2017-08-17T06:59:58.160Z"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"2017-08-17T06:59:58.160Z"}
+{"level":"info","message":"Database:\t\t","timestamp":"2017-08-17T06:59:58.161Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-17T06:59:58.161Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-17T06:59:58.161Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-17T06:59:58.178Z"}
+{"level":"info","message":"Redis connected!","timestamp":"2017-08-17T06:59:58.178Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-17T06:59:58.178Z"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"2017-08-17T06:59:58.178Z"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"2017-08-17T06:59:58.178Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-17T06:59:58.179Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-17T06:59:58.179Z"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"2017-08-17T06:59:58.186Z"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"2017-08-17T07:00:02.352Z"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"2017-08-17T07:00:02.362Z"}
+{"level":"ok","message":"POST /user","timestamp":"2017-08-17T07:00:05.673Z"}
+{"name":"jmz","surname":"zamora","user":"1jmz","password":"--=33333","level":"ok","message":"","timestamp":"2017-08-17T07:00:05.676Z"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"2017-08-17T06:59:58.178Z"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"2017-08-17T06:59:58.178Z"}
+{"meta":"","level":"info","message":"","timestamp":"2017-08-17T06:59:58.179Z"}
+{"level":"info","message":"----------------------------------------------","timestamp":"2017-08-17T06:59:58.179Z"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"2017-08-17T06:59:58.186Z"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"2017-08-17T07:00:02.352Z"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"2017-08-17T07:00:02.362Z"}
+{"level":"ok","message":"POST /user","timestamp":"2017-08-17T07:00:05.673Z"}
+{"name":"jmz","surname":"zamora","user":"1jmz","password":"--=33333","level":"ok","message":"","timestamp":"2017-08-17T07:00:05.676Z"}{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 11:08:19"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 11:08:23"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:23"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 11:08:23"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 11:08:23"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 11:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 11:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 11:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 11:08:54"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 13:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 13:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 13:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 13:08:05"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 13:08:11"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 13:08:11"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:11"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 13:08:11"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 13:08:11"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 13:08:51"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 13:08:51"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:51"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 13:08:51"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 13:08:51"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 13:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 13:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 13:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 13:08:38"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 13:08:39"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 13:08:39"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:39"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 13:08:39"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 13:08:39"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 13:08:53"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 13:08:53"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:53"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 13:08:53"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 13:08:53"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 13:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:41"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 13:08:41"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:41"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 13:08:41"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 13:08:41"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 13:08:41"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 13:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:41"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:42"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 13:08:42"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:42"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 13:08:42"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 13:08:42"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 13:08:42"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 13:08:42"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 13:08:42"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 14:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:12"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 14:08:13"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:13"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 14:08:13"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 14:08:14"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 14:08:14"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 14:08:14"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:14"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:14"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:15"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 14:08:15"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:18"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 14:08:18"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 14:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:18"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 14:08:18"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 14:08:33"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 14:08:48"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 14:08:06"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 14:08:21"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 14:08:14"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 14:08:40"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 14:08:16"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 14:08:25"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:25"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 14:08:25"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 14:08:25"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 15:08:14"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 15:08:17"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:17"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 15:08:17"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 15:08:17"}
+{"level":"info","message":"Connecting to redis","timestamp":"17/08/2017 15:08:08"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Application started!","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Database:\t\t","timestamp":"17/08/2017 15:08:25"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:25"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Redis connected!","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"17/08/2017 15:08:25"}
+{"meta":"","level":"info","message":"","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"----------------------------------------------","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"17/08/2017 15:08:25"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:10"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:10"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:10"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:10"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:18"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:18"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:18"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:18"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:21"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:21"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:21"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:21"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:22"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:22"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:22"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:22"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:23"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:23"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:23"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:23"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:23"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:23"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:23"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:23"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:32"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:32"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:32"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:32"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"17/08/2017 15:08:35"}
+{"level":"info","message":"The value of token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OThjMWQ0NTFhZWRiZTQ3OTRiMjM3NTEiLCJpYXQiOjE1MDI4NzE3MzQsImV4cCI6MTUwNDA4MTMzNH0.bEtVVob-YwXvXkEFcEVb0igineLsrThwwZtYM5NZc-k is: jmz","timestamp":"17/08/2017 15:08:35"}
+{"level":"debug","message":"GET /user/598c0199c697124204abad36","timestamp":"17/08/2017 15:08:35"}
+{"__v":0,"password":"1234","user":"vdg","surname":"Dieguez","name":"Victor","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":140,"2":1,"3":153,"4":198,"5":151,"6":18,"7":66,"8":4,"9":171,"10":173,"11":54}},"level":"debug","message":"","timestamp":"17/08/2017 15:08:35"}
