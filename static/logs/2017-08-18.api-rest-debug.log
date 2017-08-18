@@ -1,0 +1,904 @@
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 08:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:10"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 08:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:10"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 08:08:10"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 08:08:10"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 08:08:10"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 08:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:11"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 08:08:11"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:11"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 08:08:11"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 08:08:11"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:11"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:11"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 08:08:11"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 08:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 08:08:49"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:58"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 08:08:59"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 08:08:00"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 08:08:09"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 08:08:14"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:15"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:16"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:16"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 08:08:29"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:31"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 08:08:35"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 08:08:36"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:37"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:37"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 08:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 08:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 08:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 08:08:48"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 08:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 08:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 08:08:54"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 08:08:54"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 08:08:36"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 08:08:36"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:36"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 08:08:36"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 08:08:36"}
+{"level":"info","message":"-----Getting user session---------","timestamp":"18/08/2017 09:08:17"}
+{"level":"info","message":"Token not found!","timestamp":"18/08/2017 09:08:22"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 09:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 09:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 09:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 09:08:48"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:17"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:27"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:08"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:29"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:14"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:11"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:47"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:54"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 09:08:36"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 09:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 09:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 09:08:38"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:49"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:56"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 09:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 09:08:44"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:44"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 09:08:44"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 09:08:44"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 09:08:53"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 10:08:29"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 10:08:31"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:31"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 10:08:31"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 10:08:13"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 10:08:15"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:15"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 10:08:15"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 10:08:27"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 10:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 10:08:42"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:42"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 10:08:42"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 10:08:42"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:53"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 10:08:07"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 10:08:35"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM3MDMsImV4cCI6MTUwNDI1MzMwM30.3LRbokHIROMBuv2DX8UQ_F_UXI_lPhGl4n683sniPBY","timestamp":"18/08/2017 10:08:35"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM3MDMsImV4cCI6MTUwNDI1MzMwM30.3LRbokHIROMBuv2DX8UQ_F_UXI_lPhGl4n683sniPBY","timestamp":"18/08/2017 10:08:35"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 10:08:35"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM3NzEsImV4cCI6MTUwNDI1MzM3MX0.1HnFOlJBG9x-TWbn4Sceff2XPFDQK280HWKjKhNJexQ","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM3NzEsImV4cCI6MTUwNDI1MzM3MX0.1HnFOlJBG9x-TWbn4Sceff2XPFDQK280HWKjKhNJexQ","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:38"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 10:08:49"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 10:08:00"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM3OTAsImV4cCI6MTUwNDI1MzM5MH0.8CNrqR7p8K11Bz6frbalImzoKKfVVtpOY0ns9jGbFm8","timestamp":"18/08/2017 10:08:00"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM3OTAsImV4cCI6MTUwNDI1MzM5MH0.8CNrqR7p8K11Bz6frbalImzoKKfVVtpOY0ns9jGbFm8","timestamp":"18/08/2017 10:08:00"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 10:08:00"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:10"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 10:08:15"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 10:08:33"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM4MTUsImV4cCI6MTUwNDI1MzQxNX0.963CVEOoFiwodiOntnIuNjKKpxrWjQOP5S_EPZCFrI0","timestamp":"18/08/2017 10:08:34"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDM4MTUsImV4cCI6MTUwNDI1MzQxNX0.963CVEOoFiwodiOntnIuNjKKpxrWjQOP5S_EPZCFrI0","timestamp":"18/08/2017 10:08:34"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 10:08:52"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:30"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 10:08:31"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 10:08:32"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDQwMTEsImV4cCI6MTUwNDI1MzYxMX0.JAux6hl3wTorrm3rEgx4vked9YLoLbPT9MtbD5-3eRw","timestamp":"18/08/2017 10:08:32"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDQwMTEsImV4cCI6MTUwNDI1MzYxMX0.JAux6hl3wTorrm3rEgx4vked9YLoLbPT9MtbD5-3eRw","timestamp":"18/08/2017 10:08:32"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 10:08:34"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:58"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 10:08:35"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 10:08:37"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:37"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 10:08:37"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 10:08:37"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:48"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 10:08:51"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 10:08:05"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDQyMTIsImV4cCI6MTUwNDI1MzgxMn0.g0geqIxhtGAZdtccVqv5V3iGBMs4BTdqmT4L5UTgOdI","timestamp":"18/08/2017 10:08:05"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDQyMTIsImV4cCI6MTUwNDI1MzgxMn0.g0geqIxhtGAZdtccVqv5V3iGBMs4BTdqmT4L5UTgOdI","timestamp":"18/08/2017 10:08:05"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 10:08:25"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 10:08:42"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 10:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 10:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 10:08:43"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 10:08:50"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 10:08:52"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 10:08:55"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDQzOTIsImV4cCI6MTUwNDI1Mzk5Mn0.MOSXwcxB5YL9e7cy_lTILHCWR3BajeyS1W8boIpUQlw","timestamp":"18/08/2017 10:08:55"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDQzOTIsImV4cCI6MTUwNDI1Mzk5Mn0.MOSXwcxB5YL9e7cy_lTILHCWR3BajeyS1W8boIpUQlw","timestamp":"18/08/2017 10:08:55"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 10:08:03"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:34"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:34"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:34"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:50"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:57"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDY4NTcsImV4cCI6MTUwNDI1NjQ1N30.L2dQBFDqDXyt-TFPZMA9ZIP14dUlb_Q9ur8bJw1bKmA","timestamp":"18/08/2017 11:08:01"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDY4NTcsImV4cCI6MTUwNDI1NjQ1N30.L2dQBFDqDXyt-TFPZMA9ZIP14dUlb_Q9ur8bJw1bKmA","timestamp":"18/08/2017 11:08:04"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:15"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:36"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:39"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcwNzYsImV4cCI6MTUwNDI1NjY3Nn0.Yt7RnmPQvbWQUA7qX6ll9Wy3WlBpxzTwRJM9tNFDthE","timestamp":"18/08/2017 11:08:39"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcwNzYsImV4cCI6MTUwNDI1NjY3Nn0.Yt7RnmPQvbWQUA7qX6ll9Wy3WlBpxzTwRJM9tNFDthE","timestamp":"18/08/2017 11:08:39"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:41"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:52"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:54"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:55"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcwOTQsImV4cCI6MTUwNDI1NjY5NH0.J5BxYFHLfqPU37SpFEC664rA27NWUEpL5SGYHYxUtI4","timestamp":"18/08/2017 11:08:55"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcwOTQsImV4cCI6MTUwNDI1NjY5NH0.J5BxYFHLfqPU37SpFEC664rA27NWUEpL5SGYHYxUtI4","timestamp":"18/08/2017 11:08:55"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:02"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:19"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:24"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:24"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:24"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:36"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:40"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:47"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcyMDEsImV4cCI6MTUwNDI1NjgwMX0.YkqQvRD_wE3c4IvlP3bpwBHX0mjsbwyhXCu0mLV5ysA","timestamp":"18/08/2017 11:08:47"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcyMDEsImV4cCI6MTUwNDI1NjgwMX0.YkqQvRD_wE3c4IvlP3bpwBHX0mjsbwyhXCu0mLV5ysA","timestamp":"18/08/2017 11:08:47"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:50"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:32"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:36"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcyNTQsImV4cCI6MTUwNDI1Njg1NH0.m10KZvMbhxg_rhsWCbSO4yvPPCWwE7bVKBTSbTMiFc8","timestamp":"18/08/2017 11:08:36"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDcyNTQsImV4cCI6MTUwNDI1Njg1NH0.m10KZvMbhxg_rhsWCbSO4yvPPCWwE7bVKBTSbTMiFc8","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:40"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:47"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDczMjAsImV4cCI6MTUwNDI1NjkyMH0.UQgTHZpRfyVpWEv8JcAV3ndnfUS8QMvEQhJVYY2NZbU","timestamp":"18/08/2017 11:08:47"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDczMjAsImV4cCI6MTUwNDI1NjkyMH0.UQgTHZpRfyVpWEv8JcAV3ndnfUS8QMvEQhJVYY2NZbU","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:53"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:37"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:37"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:37"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:37"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:38"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:38"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:53"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDczOTMsImV4cCI6MTUwNDI1Njk5M30.RJOT80Z7EBuESRRQnEllaUTY_tiYHghlJkqKky5fReM","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDczOTMsImV4cCI6MTUwNDI1Njk5M30.RJOT80Z7EBuESRRQnEllaUTY_tiYHghlJkqKky5fReM","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:14"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:49"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:49"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:49"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:49"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:54"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:57"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:01"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDc0NTcsImV4cCI6MTUwNDI1NzA1N30.tW_Tlf1wGuOj8YXKBbjxfNSSxQAYYMuQ7Us__HbnbeA","timestamp":"18/08/2017 11:08:01"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDc0NTcsImV4cCI6MTUwNDI1NzA1N30.tW_Tlf1wGuOj8YXKBbjxfNSSxQAYYMuQ7Us__HbnbeA","timestamp":"18/08/2017 11:08:01"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:36"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:33"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:41"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:42"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:44"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDc2ODIsImV4cCI6MTUwNDI1NzI4Mn0.dzpIl15TaXj3q1D897HT80sEtPMOsdL92cMeMzC2oWk","timestamp":"18/08/2017 11:08:44"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDc2ODIsImV4cCI6MTUwNDI1NzI4Mn0.dzpIl15TaXj3q1D897HT80sEtPMOsdL92cMeMzC2oWk","timestamp":"18/08/2017 11:08:44"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:46"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:27"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:29"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDgxNDcsImV4cCI6MTUwNDI1Nzc0N30.mvqy8hLRtY-lHlrNGbHzXE-7M6h0x3tbLsORYSgw4Rw","timestamp":"18/08/2017 11:08:29"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDgxNDcsImV4cCI6MTUwNDI1Nzc0N30.mvqy8hLRtY-lHlrNGbHzXE-7M6h0x3tbLsORYSgw4Rw","timestamp":"18/08/2017 11:08:29"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:29"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:00"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:07"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:15"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDgxODcsImV4cCI6MTUwNDI1Nzc4N30.3Vxyif9G4R7Ph7iUwogB-IZ7UeTLBscSpMJROMk1hJg","timestamp":"18/08/2017 11:08:15"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDgxODcsImV4cCI6MTUwNDI1Nzc4N30.3Vxyif9G4R7Ph7iUwogB-IZ7UeTLBscSpMJROMk1hJg","timestamp":"18/08/2017 11:08:15"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:15"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:56"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:04"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:06"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:08"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDgzNjYsImV4cCI6MTUwNDI1Nzk2Nn0.rKf2Uq3MBw_Vp0r57GIogEX58uyPHx92sTAFrXlvX-o","timestamp":"18/08/2017 11:08:08"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDgzNjYsImV4cCI6MTUwNDI1Nzk2Nn0.rKf2Uq3MBw_Vp0r57GIogEX58uyPHx92sTAFrXlvX-o","timestamp":"18/08/2017 11:08:08"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:08"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:31"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:31"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:31"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:31"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:31"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:51"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:09"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDg0MTEsImV4cCI6MTUwNDI1ODAxMX0.2XvNldTgSugIwO7zwuKb0hlUnai0Yu_xX_wMSPRdEOY","timestamp":"18/08/2017 11:08:09"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDg0MTEsImV4cCI6MTUwNDI1ODAxMX0.2XvNldTgSugIwO7zwuKb0hlUnai0Yu_xX_wMSPRdEOY","timestamp":"18/08/2017 11:08:09"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:09"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:50"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:19"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:21"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDg4MDEsImV4cCI6MTUwNDI1ODQwMX0.LGiynHaHktj_CiTOnI8i0S9h8WrHypr6XxIxDebIszA","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDg4MDEsImV4cCI6MTUwNDI1ODQwMX0.LGiynHaHktj_CiTOnI8i0S9h8WrHypr6XxIxDebIszA","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:28"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:18"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:18"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:24"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:27"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:01"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDg5OTAsImV4cCI6MTUwNDI1ODU5MH0.mYc1fDFyfZtBC-SbFKXTboj-u_f-kVKuDHaJK7I-3a0","timestamp":"18/08/2017 11:08:01"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDg5OTAsImV4cCI6MTUwNDI1ODU5MH0.mYc1fDFyfZtBC-SbFKXTboj-u_f-kVKuDHaJK7I-3a0","timestamp":"18/08/2017 11:08:01"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:05"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:14"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:14"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDkwOTQsImV4cCI6MTUwNDI1ODY5NH0.DrLVIJYLklsncGjeSGbcfaILZkhODl1n12nkA_SAh_U","timestamp":"18/08/2017 11:08:14"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDkwOTQsImV4cCI6MTUwNDI1ODY5NH0.DrLVIJYLklsncGjeSGbcfaILZkhODl1n12nkA_SAh_U","timestamp":"18/08/2017 11:08:14"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:17"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:43"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:49"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:13"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:13"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:13"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:13"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:13"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:10"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:10"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDkzOTYsImV4cCI6MTUwNDI1ODk5Nn0.Xw4imsBvwMC7FDVT2YmnMI_VR9Sr_tpfIXOL605rCPg","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDkzOTYsImV4cCI6MTUwNDI1ODk5Nn0.Xw4imsBvwMC7FDVT2YmnMI_VR9Sr_tpfIXOL605rCPg","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:39"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDk0NjYsImV4cCI6MTUwNDI1OTA2Nn0.DGcgYI1s1WWtsaYo87PTBxXKnH5V7GfHDHOvNG2smys","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDk0NjYsImV4cCI6MTUwNDI1OTA2Nn0.DGcgYI1s1WWtsaYo87PTBxXKnH5V7GfHDHOvNG2smys","timestamp":"18/08/2017 11:08:26"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:29"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:16"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:16"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:16"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:16"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:16"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 11:08:20"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 11:08:34"}
+{"level":"info","message":"User not found: user : afaa=>null","timestamp":"18/08/2017 11:08:22"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:48"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:48"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:03"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:03"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:03"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDk2MjMsImV4cCI6MTUwNDI1OTIyM30._uW7sZnsUofC233u229miPmY8r-nZ4nE30qnK_XJfXw","timestamp":"18/08/2017 11:08:03"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDk2MjMsImV4cCI6MTUwNDI1OTIyM30._uW7sZnsUofC233u229miPmY8r-nZ4nE30qnK_XJfXw","timestamp":"18/08/2017 11:08:03"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:05"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 11:08:12"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 11:08:12"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:12"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 11:08:12"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 11:08:12"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 11:08:25"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 11:08:25"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 11:08:25"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDk4MjUsImV4cCI6MTUwNDI1OTQyNX0.pSmgxK7KaQpJzFkLWo8yd56nZPk5XYAdJvvaUJoTHVo","timestamp":"18/08/2017 11:08:25"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNDk4MjUsImV4cCI6MTUwNDI1OTQyNX0.pSmgxK7KaQpJzFkLWo8yd56nZPk5XYAdJvvaUJoTHVo","timestamp":"18/08/2017 11:08:25"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 11:08:27"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 12:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 12:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 12:08:43"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 12:08:52"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 12:08:04"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 12:08:04"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 12:08:04"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 12:08:04"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 13:08:26"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 13:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 13:08:33"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 13:08:33"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 13:08:35"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 13:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 13:08:41"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 13:08:41"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 13:08:44"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 13:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 13:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 13:08:43"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:43"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 13:08:43"}
+{"level":"debug","message":"GET /user/599698f86b8b4f14540b14ab","timestamp":"18/08/2017 13:08:26"}
+{"__v":0,"password":"1234","user":"jmz","surname":"zamora","name":"jmz","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":150,"2":152,"3":248,"4":107,"5":139,"6":79,"7":20,"8":84,"9":11,"10":20,"11":171}},"level":"debug","message":"","timestamp":"18/08/2017 13:08:35"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 13:08:45"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 13:08:45"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:45"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 13:08:45"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:45"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 13:08:45"}
+{"level":"debug","message":"GET /user/599698f86b8b4f14540b14ab","timestamp":"18/08/2017 13:08:52"}
+{"__v":0,"password":"1234","user":"jmz","surname":"zamora","name":"jmz","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":150,"2":152,"3":248,"4":107,"5":139,"6":79,"7":20,"8":84,"9":11,"10":20,"11":171}},"level":"debug","message":"","timestamp":"18/08/2017 13:08:52"}
+{"level":"debug","message":"GET /user/599698f86b8b4f14540b14ab","timestamp":"18/08/2017 13:08:20"}
+{"__v":0,"password":"1234","user":"jmz","surname":"zamora","name":"jmz","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":150,"2":152,"3":248,"4":107,"5":139,"6":79,"7":20,"8":84,"9":11,"10":20,"11":171}},"level":"debug","message":"","timestamp":"18/08/2017 13:08:20"}
+{"level":"debug","message":"GET /user/599698f86b8b4f14540b14ab","timestamp":"18/08/2017 13:08:21"}
+{"__v":0,"password":"1234","user":"jmz","surname":"zamora","name":"jmz","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":150,"2":152,"3":248,"4":107,"5":139,"6":79,"7":20,"8":84,"9":11,"10":20,"11":171}},"level":"debug","message":"","timestamp":"18/08/2017 13:08:21"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 13:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Environment:\tdebug","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Port:\t\t8080","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 13:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Redis connected!","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 13:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"Connected to mongodb: usersDb","timestamp":"18/08/2017 13:08:56"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 13:08:43"}
