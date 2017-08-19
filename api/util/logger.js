@@ -75,7 +75,11 @@ let logger = new winston.Logger({
 
 logger.on('logging', function (transport, level, msg, meta) {
   if (transport.name === 'console') {
-    publisher.publishInExchange(level, msg)
+    var msgJson = {}
+    msgJson.message = msg
+    msgJson.level = level
+    msgJson.timestamp = moment(moment()).locale('es').format('DD/MM/YYYY HH:MM:ss')
+    publisher.publishInExchange(level, msgJson)
   }
 
 //  publisher.publishInExchange(logExchange, level, msg)

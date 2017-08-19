@@ -1,7 +1,18 @@
-
+'use strict'
 let amqp = require('amqp')
 
-var connection = amqp.createConnection({host: 'localhost'})
+var connection = amqp.createConnection({
+  host: 'localhost',
+  port: 5672,
+  login: 'guest',
+  password: 'guest',
+  connectionTimeout: 10000,
+  authMechanism: 'AMQPLAIN',
+  vhost: '/',
+  noDelay: true,
+  ssl: { enabled: false
+  }
+})
 var exchange
 exports.managePublisher = function managePublisher (configEnv, exchangeName) {
   /// Create a connection to your RabbitMQ  

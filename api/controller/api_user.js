@@ -5,6 +5,14 @@ let Promise = require('bluebird')
 let mongoose = Promise.promisifyAll(require('mongoose'))
 var User = mongoose.model('User')
 
+function parseUserJson (doc) {
+  var userJson = {}
+  userJson.name = doc.name
+  userJson.surname = doc.surname
+  userJson.user = doc.user
+  userJson.password = doc.password
+  return userJson
+}
 module.exports = function (logger) {
   return {
 
@@ -201,7 +209,7 @@ module.exports = function (logger) {
       var id = req.params.id
       User.findByIdAsync(id).then(user => {
         logger.debug(chalk.red('GET /user/' + id))
-        logger.debug(user._doc)
+        logger.debug(JSON.stringify(parseUserJson(user._doc)))
         res.status(200).jsonp(user)
       }).catch(err => {
         dbUtil.manageDBError(err, res)
