@@ -2,7 +2,6 @@
 
 let winston = require('winston')
 let path = require('path')
-let fs = require('fs')
 let moment = require('moment')
 let config = require('../../config')
 require('winston-daily-rotate-file')
@@ -24,7 +23,6 @@ if (process.env.NODE_ENV === 'development') {
 publisher.managePublisher(configJson, 'logs')
 
 const logDirectory = path.join(configJson.filelog, '')
-fs.existsSync(logDirectory) || fs.mkdirSync(logDirectory)
 
 transports.push(new winston.transports.DailyRotateFile({
   level: level,
