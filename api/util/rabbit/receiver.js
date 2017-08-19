@@ -1,3 +1,4 @@
+'use strict'
 var amqp = require('amqp')
 
 var connection = amqp.createConnection({
@@ -25,12 +26,12 @@ exports.connectClientLog = function connectClientLog (io) {
     // Use the default 'amq.topic' exchange
     connection.queue('user-queue', function (q) {
       // Catch all messages
-      q.bind('logs', 'info')
+      q.bind('logs', '#')
 
       // Receive messages
       q.subscribe(function (message) {
         // Print messages to stdout
-        io.emit('logFile', message.data.toString())
+        io.emit('logFile', message)
         console.log(message)
       })
     })

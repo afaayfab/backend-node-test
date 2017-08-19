@@ -29,28 +29,12 @@
     <script type="text/javascript">
         var socket = io("http://127.0.0.1:3000/");
 
-        socket.on("initLog", function (data) {
-            if (data != undefined) {
-                var parts = data.split(/\}\s*\{/g);
-                for (var i = 0; i < parts.length; i++) {
-                    var part = parts[i].trim();
-
-                    if (part[0] !== '{') part = '{' + part;
-                    if (part[part.length - 1] !== '}') part += '}';
-
-                    var json = JSON.parse(part);
-                    $("#arquivoSaida").prepend(paintPart(json) + "<br/>");
-                }
-            }
-
-
-        });
-
-        //recebe o arquivo indefinidamente
+            //recebe o arquivo indefinidamente
         socket.on("logFile", function (data) {
 
             if (data != undefined) {
-                $("#arquivoSaida").prepend(data + "<br/>");
+              //  $("#archivoSalida").prepend(data + "<br/>");
+             $("#archivoSalida").prepend(paintPart(data)+ "<br/>");
             }
 
         });
@@ -64,7 +48,7 @@
     <h3 style="font: Arial, Verdana; font-size: 14px; font-weight: bold;">
         File updated:
     </h3>
-    <div id="arquivoSaida">
+    <div id="archivoSalida">
 
     </div>
 </body>
