@@ -1,6 +1,5 @@
 'use strict'
 
-
 module.exports = function (logger) {
   let enviromentConfigLib = require('../util/environment')(logger)
   let apiUser = require('./api_user')(logger)
@@ -33,7 +32,6 @@ module.exports = function (logger) {
         }).catch(err => {
           dbUtil.manageDBError(err, res)
         })
-
       } else {
         var error = {}
         error.code = 500

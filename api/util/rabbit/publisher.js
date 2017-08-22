@@ -1,24 +1,18 @@
+var amqp = require('amqplib')
+exports.manageConnection = function manageConnection () {
+  return amqp.connect('amqp://localhost')
+}
 
-let amqp = require('amqp')
-
-var connection = amqp.createConnection({host: 'localhost'})
-var exchange
-exports.managePublisher = function managePublisher (configEnv, exchangeName) {
-  /// Create a connection to your RabbitMQ  
-  connection.on('ready', function () {
-    connection.exchange(exchangeName, {
-      type: 'topic', /// This is the type of exchange I want to use
-      confirm: false
-    }, function (exh) {
-      exchange = exh
-    })
+exports.createExchange = function exchange (connection, exchange) {
+  return connection.createChannel().then(ch => {
+    ch.assertExchange(exchange, 'topic', {durable: true})
+    return ch
+  }).catch(err => {
+    console.log('Error creating exchange: ' + err)
   })
 }
 
-exports.publishInExchange = function publishInExchange (routintKey, message) {
-  if (exchange !== undefined) {
-    exchange.publish(routintKey, message, {
-      durable: true
-    })
-  }
+exports.publishInExchange = function publishInExchange (ch, exchange, routingKey, msg) {
+  ch.publish(exchange, routingKey, Buffer.from(msg))
 }
+// exports.pub

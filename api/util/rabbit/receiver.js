@@ -1,38 +1,20 @@
-var amqp = require('amqp')
+var amqp = require('amqplib')
+var when = require('when')
 
-var connection = amqp.createConnection({
-  host: 'localhost',
-  port: 5672,
-  login: 'guest',
-  password: 'guest',
-  connectionTimeout: 10000,
-  authMechanism: 'AMQPLAIN',
-  vhost: '/',
-  noDelay: true,
-  ssl: { enabled: false
-  }
-})
+exports.manageConnection = function manageConnection () {
+  return amqp.connect('amqp://localhost')
+}
 
-// TODO: prueba
-exports.connectClientLog = function connectClientLog (io) {
-// add this for better debuging
-  connection.on('error', function (e) {
-    console.log('Error from amqp: ', e)
-  })
-
-  // Wait for connection to become established.
-  connection.on('ready', function () {
-    // Use the default 'amq.topic' exchange
-    connection.queue('user-queue', function (q) {
-      // Catch all messages
-      q.bind('logs', 'info')
-
-      // Receive messages
-      q.subscribe(function (message) {
-        // Print messages to stdout
-        io.emit('logFile', message.data.toString())
-        console.log(message)
+exports.manageExchange = function manageExchange (connection, exchange, routingKeys, io) {
+  connection.createChannel().then((ch) => {
+    return when.all([
+      ch.assertQueue(''),
+      ch.assertExchange(exchange, 'topic', {durable: true}),
+      ch.bindQueue('', exchange, routingKeys),
+      ch.consume('', function (msg) {
+        io.emit('logFile', msg.content.toString())
+        console.log(" [x] %s: '%s'", msg.fields.routingKey, msg.content.toString())
       })
-    })
+    ])
   })
 }
