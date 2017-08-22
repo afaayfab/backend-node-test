@@ -4,7 +4,7 @@
   "description": "Nodejs API REST",
   "main": "app.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development nodemon --debug app.js",
+    "dev": "cross-env NODE_ENV=development nodemon --inspect app.js",
     "build": "cross-env NODE_ENV=production node app.js",
     "doc": "apidoc -e node_modules/",
     "test": "mocha ./test/base-test.js",

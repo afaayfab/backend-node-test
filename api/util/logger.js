@@ -2,9 +2,9 @@
 
 let winston = require('winston')
 let path = require('path')
-let fs = require('fs')
 let moment = require('moment')
 let config = require('../../config')
+let fs = require('fs')
 require('winston-daily-rotate-file')
 
 // let Promise = require('bluebird')
