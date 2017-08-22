@@ -17,10 +17,11 @@
     </style>
     <script>
         function paintPart(part) {
+            part = JSON.parse(part)
             var paint = '<p class="level">- LEVEL: ' + part.level + '</p>'
                 + '<p >- TIME: ' + part.timestamp + '</p>'
                 + '<p>- CONTENT: </p>'
-                + '<p>- ' + part.message + ' </p>'
+                + '<p>- <div style="width:100%;  word-wrap: break-word;">' + part.message + '</div> </p>'
 
             return '<div class="log">' + paint + '</div>'
 
@@ -29,12 +30,12 @@
     <script type="text/javascript">
         var socket = io("http://127.0.0.1:3000/");
 
-            //recebe o arquivo indefinidamente
+        //recebe o arquivo indefinidamente
         socket.on("logFile", function (data) {
 
             if (data != undefined) {
-              //  $("#archivoSalida").prepend(data + "<br/>");
-             $("#archivoSalida").prepend(paintPart(data)+ "<br/>");
+                //  $("#archivoSalida").prepend(data + "<br/>");
+                $("#archivoSalida").prepend(paintPart(data) + "<br/>");
             }
 
         });

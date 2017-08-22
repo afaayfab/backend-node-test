@@ -5,14 +5,14 @@ exports.manageConnection = function manageConnection () {
   return amqp.connect('amqp://localhost')
 }
 
-exports.manageExchange = function manageExchange (connection, exchange, routingKeys, io) {
-  connection.createChannel().then((ch) => {
+exports.manageExchange = function manageExchange (options) {
+  options.conn.createChannel().then((ch) => {
     return when.all([
-      ch.assertQueue(''),
-      ch.assertExchange(exchange, 'topic', {durable: true}),
-      ch.bindQueue('', exchange, routingKeys),
-      ch.consume('', function (msg) {
-        io.emit('logFile', msg.content.toString())
+      ch.assertQueue(options.queueName),
+      ch.assertExchange(options.exchange, 'topic', {durable: true}),
+      ch.bindQueue(options.queueName, options.exchange, options.routingKey),
+      ch.consume(options.queueName, function (msg) {
+        options.ioSocket.emit(options.ioSocketChannel, msg.content.toString())
         console.log(" [x] %s: '%s'", msg.fields.routingKey, msg.content.toString())
       })
     ])

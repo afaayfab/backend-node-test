@@ -11,6 +11,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     var app = express()
     var http = require('http').Server(app)
     require('./config.js')
+    let path = require('path')
 
     require('./api/model/user')
     let env = require('./api/util/environment')(logger)
@@ -20,7 +21,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     var redisUtil = require('./api/util/redisUtil')(logger)
     var jwtauth = require('./api/controller/middelware')
     var io = require('socket.io')(http)
-    var logIO = require('./log_viewer/viewwer')
+    var logIO = require('./log_viewer/viewer')
     // require('winston-logs-display')(app, logger)
 
     // var receiver = require('./api/util/rabbit/receiver')
@@ -48,7 +49,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
 
     // Fin rutas
     app.all('/api/*', jwtauth)
-    app.use(express.static(__dirname + '/static'))
+    app.use(express.static(path.join(__dirname, '/static')))
     logIO.initLoggerWebSocket(io)
     // Rutas
     router.route('/api/user').get(userController.findAll).post(userController.add)

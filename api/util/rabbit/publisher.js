@@ -1,8 +1,13 @@
 var amqp = require('amqplib')
+var connection
 exports.manageConnection = function manageConnection () {
-  return amqp.connect('amqp://localhost')
+  connection = amqp.connect('amqp://localhost')
+  return connection
 }
 
+exports.getRabbitConnection = function getRabbitConnection () {
+  return connection
+}
 exports.createExchange = function exchange (connection, exchange) {
   return connection.createChannel().then(ch => {
     ch.assertExchange(exchange, 'topic', {durable: true})

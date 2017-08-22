@@ -6,6 +6,13 @@ exports.initLoggerWebSocket = function initLoggerWebSocket (io) {
 
   var conn = receiver.manageConnection()
   conn.then(conn => {
-    receiver.manageExchange(conn, 'logs', '#', io)
+    var options = {}
+    options.conn = conn
+    options.exchange = 'logs'
+    options.routingKey = '#'
+    options.ioSocket = io
+    options.ioSocketChannel = 'logFile'
+    options.queueName = 'clientQueue'
+    receiver.manageExchange(options)
   })
 }
