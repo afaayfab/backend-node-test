@@ -3174,3 +3174,132 @@
 {"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:50"}
 {"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:50"}
 {"level":"info","message":"\u001b[94mConnected to mongodb: usersDb\u001b[39m","timestamp":"18/08/2017 14:08:50"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:23"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:23"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 14:08:23"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 14:08:23"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:23"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"\u001b[94mRedis connected!\u001b[39m","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 14:08:23"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"\u001b[94mConnected to mongodb: usersDb\u001b[39m","timestamp":"18/08/2017 14:08:23"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:28"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"User found: user : afaa=>{ _id: 599699066b8b4f14540b14ac,\n  name: 'afaa',\n  surname: 'alcolea',\n  user: 'afaa',\n  password: '1234',\n  __v: 0 }","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"User token creation: {\"_id\":\"599699066b8b4f14540b14ac\",\"name\":\"afaa\",\"surname\":\"alcolea\",\"user\":\"afaa\",\"password\":\"1234\",\"__v\":0}","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"-----Registering---------","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"-----Redis key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNTkzNjgsImV4cCI6MTUwNDI2ODk2OH0.HxJQV2rUuZCE13XR1TysYGHbWdSdVzkyIFO39yGSvPo","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"-----Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1OTk2OTkwNjZiOGI0ZjE0NTQwYjE0YWMiLCJpYXQiOjE1MDMwNTkzNjgsImV4cCI6MTUwNDI2ODk2OH0.HxJQV2rUuZCE13XR1TysYGHbWdSdVzkyIFO39yGSvPo","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"Token registered:OK","timestamp":"18/08/2017 14:08:28"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:30"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:30"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 14:08:30"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 14:08:30"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:30"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"\u001b[94mRedis connected!\u001b[39m","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 14:08:30"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"\u001b[94mConnected to mongodb: usersDb\u001b[39m","timestamp":"18/08/2017 14:08:30"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:00"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:00"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 14:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 14:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"\u001b[94mRedis connected!\u001b[39m","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 14:08:00"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"\u001b[94mConnected to mongodb: usersDb\u001b[39m","timestamp":"18/08/2017 14:08:00"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:56"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:56"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 14:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 14:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"\u001b[94mRedis connected!\u001b[39m","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 14:08:56"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"\u001b[94mConnected to mongodb: usersDb\u001b[39m","timestamp":"18/08/2017 14:08:56"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:35"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"------------------INFO----------------------------","timestamp":"18/08/2017 14:08:35"}
+{"env":"development","port":3000,"errorLevel":"debug","host":"localhost","database":"usersDb","dbhost":"mongodb://localhost/","filelog":"static/logs/api-rest-dev.log","authToken":"mytokensecret1234","redisHost":"localhost","redisPort":"6379","expirationSession":864000000,"level":"info","message":"","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"Connecting to redis","timestamp":"18/08/2017 14:08:35"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"Application started!","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"Environment:\t\u001b[31m\u001b[4m\u001b[1mdevelopment\u001b[22m\u001b[24m\u001b[39m","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"IP:\t\tlocalhost","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"Port:\t\t3000","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"Database:\t\t","timestamp":"18/08/2017 14:08:35"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:35"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"\u001b[94mRedis connected!\u001b[39m","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"Host:\tlocalhost","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"Port:\t\t6379","timestamp":"18/08/2017 14:08:35"}
+{"meta":"","level":"info","message":"","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"----------------------------------------------","timestamp":"18/08/2017 14:08:35"}
+{"level":"info","message":"\u001b[94mConnected to mongodb: usersDb\u001b[39m","timestamp":"18/08/2017 14:08:35"}
