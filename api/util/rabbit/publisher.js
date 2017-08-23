@@ -1,7 +1,9 @@
 var amqp = require('amqplib')
 var connection
 exports.manageConnection = function manageConnection () {
-  connection = amqp.connect('amqp://localhost')
+  if (!connection) {
+    connection = amqp.connect('amqp://localhost')
+  }
   return connection
 }
 
@@ -20,4 +22,3 @@ exports.createExchange = function exchange (connection, exchange) {
 exports.publishInExchange = function publishInExchange (ch, exchange, routingKey, msg) {
   ch.publish(exchange, routingKey, Buffer.from(msg))
 }
-// exports.pub

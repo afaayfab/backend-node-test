@@ -1,7 +1,18 @@
 'use strict'
+let logIO
 var logApi = require('./api/util/logger')()
 logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
   .then(() => {
+    logIO = require('./log_viewer/viewer')
+    let rabbitController = require('./api/controller/clientRabbitController')(logIO)
+    rabbitController.createExchangeUserTask().then(() => {
+      rabbitController.consumeUserTask()
+      /* setTimeout(function () {
+        rabbitController.cleanPublisherTaskConnection()
+        // rabbitController.clearReceiverTaskConnection()
+      }, 3000) */
+    })
+  }).then(() => {
     var logger = logApi.getLogger()
     // require Express and Socket.io
     var express = require('express')
@@ -21,7 +32,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     var redisUtil = require('./api/util/redisUtil')(logger)
     var jwtauth = require('./api/controller/middelware')
     var io = require('socket.io')(http)
-    var logIO = require('./log_viewer/viewer')
+
     // require('winston-logs-display')(app, logger)
 
     // var receiver = require('./api/util/rabbit/receiver')
