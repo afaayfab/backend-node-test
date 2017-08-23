@@ -47,7 +47,7 @@ module.exports = function () {
                 json: true,
                 align: true,
                 humanReadableUnhandledException: true,
-                timestamp: () => { return moment(moment()).locale('es').format('DD/MM/YYYY HH:MM:ss') }
+                timestamp: () => { return moment(moment()).locale('es').format('DD/MM/YYYY HH:mm:ss') }
 
               }))
 
@@ -57,7 +57,7 @@ module.exports = function () {
                 prettyPrint: true,
                 align: true,
                 humanReadableUnhandledException: true,
-                timestamp: () => { return moment(moment()).locale('es').format('DD/MM/YYYY HH:MM:ss') }
+                timestamp: () => { return moment(moment()).locale('es').format('DD/MM/YYYY HH:mm:ss') }
                 // ,
                 // handleExceptions: process.env.NODE_ENV === "production"
               }))
@@ -84,7 +84,11 @@ module.exports = function () {
                 }
               })
               logger.on('logging', function (transport, level, msg, meta) {
-                publisher.publishInExchange(channel, 'logs', level, msg)
+                var logToSend = {}
+                logToSend.timestamp = moment(moment()).locale('es').format('DD/MM/YYYY HH:mm:ss')
+                logToSend.message = msg
+                logToSend.level = level
+                publisher.publishInExchange(channel, 'logs', level, JSON.stringify(logToSend))
               })
               resolve(channel)
             }
