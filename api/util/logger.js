@@ -88,7 +88,9 @@ module.exports = function () {
                 logToSend.timestamp = moment(moment()).locale('es').format('DD/MM/YYYY HH:mm:ss')
                 logToSend.message = msg
                 logToSend.level = level
-                publisher.publishInExchange(channel, 'logs', level, JSON.stringify(logToSend))
+                if (transport.name === 'console') {
+                  publisher.publishInExchange(channel, 'logs', level, JSON.stringify(logToSend))
+                }
               })
               resolve(channel)
             }

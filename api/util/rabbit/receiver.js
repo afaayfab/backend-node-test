@@ -17,9 +17,6 @@ exports.manageExchange = function manageExchange (options) {
       ch.consume(options.queueName, function (msg) {
         if (msg) {
           if (options.ioSocket) {
-            if (options.ioSocket === 'task') {
-              console.log()
-            }
             options.ioSocket.emit(options.ioSocketChannel, msg.content.toString())
           }
           console.log(options.queueName + "->Consumer-> [x] %s: '%s'", msg.fields.routingKey, msg.content.toString())

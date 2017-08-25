@@ -27,7 +27,7 @@ module.exports = {
   },
   debug: {
     env: 'debug',
-    port: 8080,
+    port: 3000,
     errorLevel: 'debug',
     host: 'localhost',
     database: 'usersDb',

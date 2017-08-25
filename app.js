@@ -1,26 +1,28 @@
 'use strict'
 let logIO
+var app
+var http
+var express
+var io
 var logApi = require('./api/util/logger')()
 logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
   .then(() => {
+    express = require('express')
+    app = express()
+    http = require('http').Server(app)
+    io = require('socket.io')(http)
     logIO = require('./log_viewer/viewer')
-    let rabbitController = require('./api/controller/clientRabbitController')(logIO)
-    rabbitController.createExchangeUserTask().then(() => {
-      rabbitController.consumeUserTask()
-      /* setTimeout(function () {
-        rabbitController.cleanPublisherTaskConnection()
-        // rabbitController.clearReceiverTaskConnection()
-      }, 3000) */
-    })
+    logIO.initLoggerWebSocket(io)
+    let rabbitController = require('./api/controller/rabbitService/clientRabbit')(io)
+    rabbitController.createExchangeUserTask()
   }).then(() => {
     var logger = logApi.getLogger()
     // require Express and Socket.io
-    var express = require('express')
+
     var chalk = require('chalk')
     var bodyParser = require('body-parser')
     var methodOverride = require('method-override')
-    var app = express()
-    var http = require('http').Server(app)
+
     require('./config.js')
     let path = require('path')
 
@@ -31,8 +33,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     let auth = require('./api/controller/auth')(logger)
     var redisUtil = require('./api/util/redisUtil')(logger)
     var jwtauth = require('./api/controller/middelware')
-    var io = require('socket.io')(http)
-
+    let rabbitClient = require('./api/controller/rabbitClientController')(io, logger)
     // require('winston-logs-display')(app, logger)
 
     // var receiver = require('./api/util/rabbit/receiver')
@@ -66,6 +67,8 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     router.route('/api/user').get(userController.findAll).post(userController.add)
     router.route('/api/user/:id').get(userController.getById).post(userController.update).delete(userController.delete)
     router.route('/auth').post(auth.authTokenLogin)
+    router.route('/api/subscribe/task').get(rabbitClient.subscribeExchangeQueue)
+    router.route('/api/unsubscribe/task').get(rabbitClient.unsubscribeExchangeQueue)
     app.use(router)
 
     http.listen(app.get('port'), function () {
