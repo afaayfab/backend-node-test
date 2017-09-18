@@ -17,8 +17,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     rabbitController.createExchangeUserTask()
   }).then(() => {
     var logger = logApi.getLogger()
-    // require Express and Socket.io
-
+    // require Express and Socket.io    
     var chalk = require('chalk')
     var bodyParser = require('body-parser')
     var methodOverride = require('method-override')
@@ -34,6 +33,8 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     var redisUtil = require('./api/util/redisUtil')(logger)
     var jwtauth = require('./api/controller/middelware')
     let rabbitClient = require('./api/controller/rabbitClientController')(io, logger)
+    let initMongoUser = require('./api/controller/initEnvironment/init')(logger)
+    initMongoUser.initUserMongo()
     // require('winston-logs-display')(app, logger)
 
     // var receiver = require('./api/util/rabbit/receiver')
