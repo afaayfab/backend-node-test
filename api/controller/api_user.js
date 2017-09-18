@@ -1,9 +1,4 @@
 'use strict'
-var chalk = require('chalk')
-var dbUtil = require('../util/mongooseUtil')
-let Promise = require('bluebird')
-let mongoose = Promise.promisifyAll(require('mongoose'))
-var User = mongoose.model('User')
 
 function parseUserJson (doc) {
   var userJson = {}
@@ -14,6 +9,11 @@ function parseUserJson (doc) {
   return userJson
 }
 module.exports = function (logger) {
+  var chalk = require('chalk')
+  var dbUtil = require('../util/mongooseUtil')(logger)
+  let Promise = require('bluebird')
+  let mongoose = Promise.promisifyAll(require('mongoose'))
+  var User = mongoose.model('User')
   return {
 
     /**
