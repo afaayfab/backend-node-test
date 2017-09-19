@@ -34,6 +34,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     var jwtauth = require('./api/controller/middelware')
     let rabbitClient = require('./api/controller/rabbitClientController')(io, logger)
     let initMongoUser = require('./api/controller/initEnvironment/init')(logger)
+    let taskController = require('./api/controller/taskController')(logger)
     initMongoUser.initUserMongo()
     // require('winston-logs-display')(app, logger)
 
@@ -70,6 +71,7 @@ logApi.initLoggerRabbit()/* .then(channel => { logApi.initLog(channel) }) */
     router.route('/auth').post(auth.authTokenLogin)
     router.route('/api/subscribe/task').get(rabbitClient.subscribeExchangeQueue)
     router.route('/api/unsubscribe/task').get(rabbitClient.unsubscribeExchangeQueue)
+    router.route('/api/launchTask').get(taskController.launchTask)
     app.use(router)
 
     http.listen(app.get('port'), function () {

@@ -47,7 +47,7 @@ module.exports = function () {
                 json: true,
                 align: true,
                 humanReadableUnhandledException: true,
-                timestamp: () => { return moment(moment()).locale('es').format('DD/MM/YYYY HH:mm:ss') }
+                timestamp: () => { return moment().locale('es').format('DD/MM/YYYY HH:mm:ss') }
 
               }))
 
@@ -75,7 +75,7 @@ module.exports = function () {
                   'silly': 5
                 },
                 colors: {
-                  'error': '',
+                  'error': 'red',
                   'warn': 'yellow',
                   'info': 'white',
                   'verbose': 'blue',
